@@ -60,7 +60,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>android_device_xiaomi_ysl/AndroidProducts.mk at r11.0 · flashokiller/android_device_xiaomi_ysl · GitHub</title>
+  <title>android_device_xiaomi_ysl/spark_ysl.mk at r11.0 · flashokiller/android_device_xiaomi_ysl · GitHub</title>
     <meta name="description" content="Android Device Tree For Redmi S2/Y2. Contribute to flashokiller/android_device_xiaomi_ysl development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -76,7 +76,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="2D2C:4C8F:C6C33B:D86507:60C75EC1" data-pjax-transient="true"/><meta name="html-safe-nonce" content="192c262654f8f57a91b2ffbe990b45603bb6f6060f8cb77d2fdb98a9aa3e195d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyRDJDOjRDOEY6QzZDMzNCOkQ4NjUwNzo2MEM3NUVDMSIsInZpc2l0b3JfaWQiOiIyNDQ0MDY1MjYzMjY0OTQ3OTA1IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoLTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="974d7d4b2590083525f0647b21f60185ca050eebf6e52d75ff8adb376e9b7852" data-pjax-transient="true"/>
+  <meta name="request-id" content="2E80:7AE1:C94F3B:DAEE0F:60C75E92" data-pjax-transient="true"/><meta name="html-safe-nonce" content="06d059a7e78e4d1d7d22d77b8e2fbf87babb24cf2c8a4495c6ba3d99c2b37039" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIyRTgwOjdBRTE6Qzk0RjNCOkRBRUUwRjo2MEM3NUU5MiIsInZpc2l0b3JfaWQiOiI4NDI5NjI3NzEzODQ5MzUxODI2IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImFwLXNvdXRoLTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="8024cc19165b893c35808aa79e60cf95c857014b127645d43c9d96f5288356d1" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:376691632" data-pjax-transient>
 
@@ -128,7 +128,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -185,7 +185,7 @@
                 <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                   class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
                   data-target="nux-signup-candidates.signupAction"
-                  data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ddde733cdd6b4c0d12022feb7884b3967048a1512dc7725ff88c494a224cd1dd"
+                  data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47be8ff5c05b76fdbf1c512b849d2160ca73f7ec19365977bb7c85684de9cc98"
                 >
                   Sign&nbsp;up
                 </a>
@@ -335,7 +335,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="hka7GTWwICpjx/1SU1zamC0wburdqacFWICsFMGN+ISWeD2VklusW20j2GDYRjO0VQiDoCi4oi7iHpqkvuFpLA==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="VzBx5EjYl9qmaDNgbhiqkDte1DoeZ+hGIHZcX/xGNUehOuR1Ewv3KBr6yoV3dpd9b/vsE+zzRDV6+Lir9oSBcw==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -489,9 +489,9 @@
 
           </div>
 
-        <a href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl%2Fblob%2Fr11.0%2FAndroidProducts.mk"
+        <a href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl%2Fblob%2Fr11.0%2Fspark_ysl.mk"
           class="HeaderMenu-link flex-shrink-0 no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5f2e77b2adfd47b1690dd91f2b0e866b240a6da83bb98dd54d4efa2730a9fe76"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="181eedc6ed19dc968b6d7513cbda3489e3439c1dd19ec32e6a4efdab1391c92b"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
@@ -504,8 +504,8 @@
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=flashokiller%2Fandroid_device_xiaomi_ysl"
                 class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
                 data-target="nux-signup-candidates.signupAction"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5f2e77b2adfd47b1690dd91f2b0e866b240a6da83bb98dd54d4efa2730a9fe76"
-                data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="54a37d744474aa8ac8e25afbfdde695c4cae058470de7aac892cbb02ad336913"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="181eedc6ed19dc968b6d7513cbda3489e3439c1dd19ec32e6a4efdab1391c92b"
+                data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2df1ff841cbe6723e2d61fe57fc31730bf5b3ec44130146e5f9c048dbfac6196"
               >
                 Sign up
               </a>
@@ -594,7 +594,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f15d24e91a27300e8e753ece0723b9f2093704ecd4fead1691b1a6a21bb60d5c" href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl">
+      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="348d78100104472da431c700fd853d16020147a7f1fa9568f225ecec0aed6633" href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
@@ -603,7 +603,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:376691632,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d922808c413c7e23f1f0bda360c144e22704ce5c4337b45cc7fa9aad6662c7bd" href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:376691632,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9349517dff073b40e800a4203752749e405376a898ab39fcc64b732c43aa2525" href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-star v-align-text-bottom mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -618,7 +618,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:376691632,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="84302d68da7fad44e54ef4335436d3a49903f0865416a4180a48edcdaee6f88c" href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:376691632,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a0de7ec8e786f3e7c990e691a1f76100d35fb3ba7e84a1c53c7ea4299193de5d" href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl">
           <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -759,9 +759,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/flashokiller/android_device_xiaomi_ysl/blob/5761cc7bd432b4ca538ccf74be304d2cf8b4f7e5/AndroidProducts.mk">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/flashokiller/android_device_xiaomi_ysl/blob/5761cc7bd432b4ca538ccf74be304d2cf8b4f7e5/spark_ysl.mk">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:fd42d57e48220a60b2a105ab04593f96047b7fc35b54458a53c2762f54ca77f2 -->
+    <!-- blob contrib key: blob_contributors:v22:5fff59dbc1e88d7dac007facf49e6db631870dbf57bca55a05617fb36f7e2767 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -845,7 +845,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/{{ urlEncodedRefName }}/AndroidProducts.mk" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/{{ urlEncodedRefName }}/spark_ysl.mk" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -885,7 +885,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/{{ urlEncodedRefName }}/AndroidProducts.mk" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/{{ urlEncodedRefName }}/spark_ysl.mk" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -916,7 +916,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/flashokiller/android_device_xiaomi_ysl"><span>android_device_xiaomi_ysl</span></a></span></span><span class="separator">/</span><strong class="final-path">AndroidProducts.mk</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/flashokiller/android_device_xiaomi_ysl"><span>android_device_xiaomi_ysl</span></a></span></span><span class="separator">/</span><strong class="final-path">spark_ysl.mk</strong>
       </h2>
       <a href="/flashokiller/android_device_xiaomi_ysl/find/r11.0"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -937,7 +937,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:376691632,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/AndroidProducts.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="748ec3d9af2c909f5c5234423bd25f2fcf894f0b980ced6c2eeae66b71f4ba85" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/flashokiller/android_device_xiaomi_ysl/find/r11.0">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:376691632,&quot;originating_url&quot;:&quot;https://github.com/flashokiller/android_device_xiaomi_ysl/blob/r11.0/spark_ysl.mk&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="33c997951a25fb7ab9de168bf81a2497fc6a154f762a91883bc3edcefa5cf310" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/flashokiller/android_device_xiaomi_ysl/find/r11.0">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -951,12 +951,12 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="AndroidProducts.mk" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="spark_ysl.mk" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/5761cc7bd432b4ca538ccf74be304d2cf8b4f7e5/AndroidProducts.mk" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/flashokiller/android_device_xiaomi_ysl/blob/5761cc7bd432b4ca538ccf74be304d2cf8b4f7e5/spark_ysl.mk" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -969,80 +969,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" href="/flashokiller"><img class="avatar avatar-user" skip_hovercard="20" src="https://avatars.githubusercontent.com/u/75789819?s=48&amp;v=4" width="24" height="24" alt="@flashokiller" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" href="/flashokiller">flashokiller</a>
-
-                <span class="markdown-title">
-                  <a data-pjax="true" title="Update AndroidProducts.mk" class="Link--secondary" href="/flashokiller/android_device_xiaomi_ysl/commit/bc1052c6b52d97aa1a262c9c23b2372ed66d64a6">Update AndroidProducts.mk</a>
-                </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/flashokiller/android_device_xiaomi_ysl/commit/bc1052c6b52d97aa1a262c9c23b2372ed66d64a6/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/flashokiller/android_device_xiaomi_ysl/contributors/r11.0/spark_ysl.mk" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/flashokiller/android_device_xiaomi_ysl/commit/bc1052c6b52d97aa1a262c9c23b2372ed66d64a6" data-pjax>bc1052c</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-06-14T03:23:36Z" class="no-wrap">Jun 14, 2021</relative-time></span>
-          </span>
 
-          <a data-pjax href="/flashokiller/android_device_xiaomi_ysl/commits/r11.0/AndroidProducts.mk" class="ml-3 no-wrap Link--primary no-underline">
-            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-history text-gray">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-people text-gray">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>3</strong>
-        
-        contributors
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/flashokiller/android_device_xiaomi_ysl/contributors-list/r11.0/AndroidProducts.mk" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" viewBox="0 0 16 16" fill="none" data-view-component="true" width="32" height="32" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1063,21 +1000,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      22 lines (20 sloc)
+      61 lines (50 sloc)
       <span class="file-info-divider"></span>
-    743 Bytes
+    2 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/flashokiller/android_device_xiaomi_ysl/raw/r11.0/AndroidProducts.mk" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/flashokiller/android_device_xiaomi_ysl/raw/r11.0/spark_ysl.mk" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/flashokiller/android_device_xiaomi_ysl/blame/r11.0/AndroidProducts.mk" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/flashokiller/android_device_xiaomi_ysl/blame/r11.0/spark_ysl.mk" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1096,13 +1033,13 @@
 </svg>
           </a>
 
-          <a href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl%2Fblob%2Fr11.0%2FAndroidProducts.mk" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl%2Fblob%2Fr11.0%2Fspark_ysl.mk" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl%2Fblob%2Fr11.0%2FAndroidProducts.mk" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2Fflashokiller%2Fandroid_device_xiaomi_ysl%2Fblob%2Fr11.0%2Fspark_ysl.mk" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1129,12 +1066,12 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/flashokiller/android_device_xiaomi_ysl/raw/r11.0/AndroidProducts.mk">
+            <a class="dropdown-item" href="/flashokiller/android_device_xiaomi_ysl/raw/r11.0/spark_ysl.mk">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/flashokiller/android_device_xiaomi_ysl/blame/r11.0/AndroidProducts.mk">
+              <a class="dropdown-item" href="/flashokiller/android_device_xiaomi_ysl/blame/r11.0/spark_ysl.mk">
                 View blame
               </a>
             </li>
@@ -1155,7 +1092,7 @@
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Copyright (C) 2017-2018 The LineageOS Project</span></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Copyright (C) 2017 The LineageOS Project</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
@@ -1207,37 +1144,202 @@
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span></span></td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_MAKEFILES</span> := <span class="pl-cce">\</span></td>
-      </tr>
-      <tr>
-        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class="pl-s">$(<span class="pl-smi">LOCAL_DIR</span>)</span>/spark_ysl.mk</td>
-      </tr>
-      <tr>
-        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line">
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">
 </td>
       </tr>
       <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Inherit from those products. Most specific first.</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">$(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)</td>
+      </tr>
+      <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">COMMON_LUNCH_CHOICES</span> := <span class="pl-cce">\</span></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">$(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)</td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">    spark_ysl-user <span class="pl-cce">\</span></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line">    spark_ysl-userdebug <span class="pl-cce">\</span></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span></span></td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">    spark_ysl-eng</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> All components inherited here go to system_ext image</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span></span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">$(call inherit-product, $(SRC_TARGET_DIR)/product/handheld_system_ext.mk)</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">$(call inherit-product, $(SRC_TARGET_DIR)/product/telephony_system_ext.mk)</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Inherit from mido device</span></td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">$(call inherit-product, device/xiaomi/ysl/device.mk)</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Inherit some common spark stuff.</span></td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">$(call inherit-product, vendor/spark/config/common.mk)</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Inherit some common spark flags</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">SPARK_BUILDTYPE</span> := UNOFFICIAL</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">TARGET_BOOT_ANIMATION_RES</span> := 720</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">TARGET_FACE_UNLOCK_SUPPORTED</span> := true</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">TARGET_USES_BLUR</span> := true</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Device identifier. This must come after all inclusions</span></td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_DEVICE</span> := ysl</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_NAME</span> := spark_ysl</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">BOARD_VENDOR</span> := Xiaomi</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_BRAND</span> := Xiaomi</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_MODEL</span> := Redmi S2</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_MANUFACTURER</span> := Xiaomi</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">TARGET_VENDOR</span> := Xiaomi</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_GMS_CLIENTID_BASE</span> := android-xiaomi</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Build fingerprint</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">BUILD_FINGERPRINT</span> := xiaomi/tissot/tissot_sprout:8.0.0/OPR1.170623.026/8.1.10:user/release-keys</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">BUILD_DESCRIPTION</span> := tissot-user 8.0.0 OPR1.170623.026 8.1.10 release-keys</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_GENERIC_PROPERTIES</span> += <span class="pl-cce">\</span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">   ro.spark.maintainer=flashokiller-yash-Rajput</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_SYSTEM_DEFAULT_PROPERTIES</span> += <span class="pl-cce">\</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">    ro.build.fingerprint=<span class="pl-s">$(<span class="pl-smi">BUILD_FINGERPRINT</span>)</span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-smi">PRODUCT_BUILD_PROP_OVERRIDES</span> += <span class="pl-cce">\</span></td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">    PRIVATE_BUILD_DESC=&quot;<span class="pl-s">$(<span class="pl-smi">BUILD_DESCRIPTION</span>)</span>&quot;</td>
       </tr>
 </table>
 
@@ -1259,7 +1361,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/flashokiller/android_device_xiaomi_ysl/blame/5761cc7bd432b4ca538ccf74be304d2cf8b4f7e5/AndroidProducts.mk">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/flashokiller/android_device_xiaomi_ysl/blame/5761cc7bd432b4ca538ccf74be304d2cf8b4f7e5/spark_ysl.mk">View git blame</a></li>
       </ul>
     </details-menu>
   </details>
